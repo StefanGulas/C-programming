@@ -1,2 +1,2 @@
-# PLC-programming
-Exercises for PLC problems
+# C# Exercises
+
